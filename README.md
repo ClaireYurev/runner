@@ -1,7 +1,5 @@
 # unicorn-runner-game
 
-Happy 2201010001! :))
-
 This is a procedurally generated freerunner featuring a unicorn ❤
 
 (◕ᴗ◕🌸)
